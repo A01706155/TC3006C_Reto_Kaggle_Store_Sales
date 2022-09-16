@@ -18,3 +18,10 @@ En el siguiente link se encuentra el video de la interfaz
 2. Ir a la carpeta "interfaz web"
 3. Abrir el archivo ``index.html``
 4. Seguir las instrucciones que indica la página para realizar una predicción.
+
+### Correr la interfaz web react / backend:
+1. Clonar el repositorio
+2. Ir a la carpeta "interfaz react"
+3. Situarse en la carpeta server y escribir ``npm run start``
+4. Situarse en la carpeta client y escribir ``npm start``
+5. Una vez se abra el proyecto de React, seguir las instrucciones de la página para predecir los datos.
